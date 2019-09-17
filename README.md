@@ -1,5 +1,6 @@
 # DodgeGame
-A Simple 2019 Workshop Project in CAERANG club.
+A Simple 2019 Workshop Project in CAERANG club
+씨애랑에서 진행하는 하계방학 SW워크샵에서 제작한 3D게임.
 
 ## 게임 설명
 - 레트로의 유니티 프로그래밍 에센스 1부에서 나온 Dodge게임을 업데이트 및 변형
